@@ -7,16 +7,16 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "cors": "2.8.1",
-    "express": "^4.17.1"
+    "cors": "2.8.5",
+    "express": "4.17.1"
   },
   "engines": {
-    "node": "5.6.0"
+    "node": "14.16.0"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/gituharish/js-dev-env-demo-api"
   },
-  "author": "Geethu Harish",
+  "author": "Cory House",
   "license": "MIT"
 }
